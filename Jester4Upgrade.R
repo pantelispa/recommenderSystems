@@ -6,6 +6,8 @@
 # start to think about scaling up the simulation.
 # Check the learning curve.
 
+# This is only for the shake of comparison using git.
+
 
 #rm(list = ls())
 setwd("/Users/pantelispa/Desktop/Project-resources/Recommender-systems/Data")
